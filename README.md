@@ -12,11 +12,13 @@ A powerful and flexible animation library for React applications, built on anime
 - **Enhanced Scroll Configuration**: Custom containers, thresholds, axis detection, and repeat options.
 - **Easy Integration**: Simple to integrate into existing React projects.
 
+<!--
 ## Installation
 
 ```bash
 npm install @bhaireshm/animate
 ```
+-->
 
 ## Usage
 
