@@ -1,4 +1,4 @@
-# Koadz Platform Animation Library
+# Animation Library
 
 A powerful and flexible animation library for React applications, built on animejs v4.2.2 with enhanced scroll detection, comprehensive TypeScript support, and expanded animation presets.
 
@@ -15,7 +15,7 @@ A powerful and flexible animation library for React applications, built on anime
 ## Installation
 
 ```bash
-npm install @koadz/animate
+npm install @bhaireshm/animate
 ```
 
 ## Usage
